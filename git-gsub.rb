@@ -3,7 +3,7 @@ class GitGsub < Formula
   homepage "https://github.com/guilherme/git-gsub"
   url "https://raw.githubusercontent.com/guilherme/git-gsub/master/git-gsub"
   version "0.1"
-  sha256 "54aefe340f46a2b188858ef90f9d144a79fd180308f1969ffa878f982949a5ca"
+  sha256 "7dc3b2afea9f16e562282dc536c11c9b39d8ba5161f02a603fc3ab385e065bf8"
 
   def install
     bin.install "git-gsub"
